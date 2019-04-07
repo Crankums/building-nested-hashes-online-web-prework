@@ -21,8 +21,8 @@ def bonus
   }
 
   #code your solution here:
-:montague[:status] = "dead"
-:capulet[:status] = "dead"
+:montague[status:] = "dead"
+:capulet[status:] = "dead"
 
 
 
